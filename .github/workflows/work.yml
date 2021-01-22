@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '13 23 * * *'
       
-  watch:
-    types: started
+#   watch:
+#     types: started
     
   workflow_dispatch:
 
